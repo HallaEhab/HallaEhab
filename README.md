@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Halla Ehab!
 
 ### Data Science & AI Student | Aspiring Data Scientist
@@ -42,7 +41,7 @@ I enjoy exploring data, developing machine learning models, creating insightful 
 - Natural Language Processing (NLP)
 - Computer Vision
 
-**Business Intelligence**
+**Business Intelligence & Visualization**
 - Microsoft Power BI
 - Microsoft Excel
 - Dashboard Development
@@ -71,27 +70,33 @@ A software development project focused on building an AI-powered interview platf
 
 **Project Components:** Backend | Frontend | Documentation
 
-### 2. Power BI – Data Analysis & Dashboards
+### 2. Bank Marketing – Customer Behavior Dashboard (Power BI)
 
-Two data analysis projects using different datasets.
+A data analysis and visualization project focused on exploring customer behavior in a bank marketing dataset.
 
 **Key Activities:**
 - Data Cleaning & Preparation
-- Data Exploration
+- Data Analysis and Exploration
+- Customer Behavior Analysis
 - Data Visualization
-- Dashboard Development
-- Analytical Insights
+- Interactive Dashboard Development
+- Presenting Analytical Insights
 
-### 3. Excel – Data Analysis Dashboard
+**Tool:** Microsoft Power BI
 
-A data analysis project using a separate dataset in Microsoft Excel.
+### 3. Marketing Campaign Dashboard (Excel)
+
+A data analysis project focused on analyzing marketing campaign data and presenting insights through an Excel dashboard.
 
 **Key Activities:**
-- Data Cleaning
-- Data Organization
+- Data Cleaning & Preparation
 - Data Analysis
-- Dashboard Creation
+- Marketing Campaign Analysis
 - Data Visualization
+- Dashboard Development
+- Presenting Analytical Insights
+
+**Tool:** Microsoft Excel
 
 ---
 
@@ -107,7 +112,7 @@ A data analysis project using a separate dataset in Microsoft Excel.
 ## 📫 Connect With Me
 
 - GitHub: [HallaEhab](https://github.com/HallaEhab)
-- LinkedIn: https://www.linkedin.com/in/halla-ehab-331096241/
+- LinkedIn: [(https://www.linkedin.com/in/halla-ehab-331096241/)]
 
 ---
 
