@@ -133,4 +133,18 @@ A data analysis project focused on exploring marketing campaign data and present
 
 ---
 
+## 🏆 Certifications & Training
+
+### National Telecommunication Institute (NTI) – Data Analytics
+
+- **Program:** Summer Training Program – Data Analytics
+- **Duration:** 120 Hours
+- **Technical Training:** 90 Hours
+- **Freelancing Training:** 30 Hours
+- **Completion Score:** 91%
+- **Period:** July 2026
+- **In Collaboration With:** ITIDA
+
+---
+
 ⭐ Thanks for visiting my profile!
